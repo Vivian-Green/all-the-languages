@@ -2,7 +2,7 @@ package main;
 import java.util.*;
 
 
-public class main {
+public class className {
 	
 	public static ArrayList<Integer> findPrimeFactors(int num)
 	{
